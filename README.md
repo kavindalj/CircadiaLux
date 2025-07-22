@@ -20,6 +20,16 @@ CircadiaLux is an integrated solution that combines web technologies, IoT device
 - **IoT**: ESP32-based devices for monitoring and controlling lighting parameters
 - **ML**: Machine learning component for personalized lighting recommendations
 
+## System Architecture
+
+![CircadiaLux System Architecture](architectureDiagram.png)
+
+The CircadiaLux system follows a distributed architecture where:
+- Healthcare professionals interact with the system through the React frontend
+- Supabase serves as the central database and authentication hub
+- ML service generates personalized lighting predictions triggered using Supabase webhooks and sends as JSON data to Flask API endpoint
+- ESP32-based IoT devices control the physical lighting environment using sensor-based feedback loop control mechanism
+
 ## Project Structure
 
 ```
