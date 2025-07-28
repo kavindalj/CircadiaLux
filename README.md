@@ -15,6 +15,15 @@ A comprehensive system for managing circadian rhythm-friendly lighting environme
 
 CircadiaLux is an integrated solution that combines web technologies, IoT devices, and machine learning to provide personalized lighting environments that support patients' circadian rhythms for better sleep and recovery outcomes.
 
+## Demo & Blog
+
+🎬 **Watch the Demo Video**  
+https://github.com/user-attachments/assets/e86ebcab-8507-4811-84ae-7ccb82573952
+
+📝 **Read the Full Story**  
+Discover the challenges, design process, and systems thinking behind CircadiaLux in this blog post:  
+👉 [CircadiaLux: Revolutionizing Healthcare Lighting with ML, IoT, and Human-Centered Design](https://blog.kavindalj.me/blog/CircadiaLux)
+
 - **Frontend**: React application with Tailwind CSS providing interfaces for administrators and caretakers
 - **Backend**: Supabase for authentication, database storage, and real-time updates
 - **IoT**: ESP32-based devices for monitoring and controlling lighting parameters
