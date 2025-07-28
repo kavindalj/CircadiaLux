@@ -18,7 +18,7 @@ CircadiaLux is an integrated solution that combines web technologies, IoT device
 ## Demo & Blog
 
 🎬 **Watch the Demo Video**  
-https://github.com/user-attachments/assets/e86ebcab-8507-4811-84ae-7ccb82573952
+[![Watch the video](https://img.youtube.com/vi/5K2pWXJpNYY/maxresdefault.jpg)](https://youtu.be/5K2pWXJpNYY)
 
 📝 **Read the Full Story**  
 Discover the challenges, design process, and systems thinking behind CircadiaLux in this blog post:  
